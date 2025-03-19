@@ -1,2 +1,2 @@
 # WebDev-Projects
-This repository contains all my Web Development projects that i have done.
+This repository contains all my Web Development projects that I have done.
